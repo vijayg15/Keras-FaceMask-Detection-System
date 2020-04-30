@@ -1,0 +1,584 @@
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask1.jpg 188,78,293,225,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask10.jpg 24,24,621,689,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask100.jpg 242,34,334,149,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask101.jpg 116,84,451,420,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask102.jpg 195,103,326,244,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask103.jpg 43,33,449,433,0 525,4,851,362,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask104.jpg 378,1,850,555,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask105.jpg 221,1,427,305,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask106.jpg 440,98,762,492,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask107.jpg 340,172,540,401,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask108.jpg 556,201,843,536,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask109.jpg 311,13,396,125,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask11.jpg 331,120,507,314,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask110.jpg 141,22,203,92,0 236,18,302,90,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask111.jpg 190,9,416,251,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask112.jpg 140,1,305,191,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask113.jpg 690,146,1051,555,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask114.jpg 292,77,341,138,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask115.jpg 357,72,599,374,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask116.jpg 403,5,812,509,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask117.jpg 271,80,383,222,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask118.jpg 68,29,198,197,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask119.jpg 458,67,725,378,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask12.jpg 596,68,719,232,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask120.jpg 136,79,224,189,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask121.jpg 58,35,190,212,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask122.jpg 271,4,411,171,0 95,142,174,238,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask123.jpg 788,63,1179,520,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask124.jpg 505,65,732,403,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask125.jpg 144,14,228,118,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask126.jpg 49,45,255,277,0 397,51,610,275,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask127.jpg 222,16,440,275,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask128.jpg 612,178,718,292,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask129.jpg 560,58,963,584,0 282,177,487,440,0 230,369,363,571,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask13.jpg 84,36,250,241,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask130.jpg 70,1,192,125,0 284,114,418,298,0 570,86,705,258,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask131.jpg 334,25,632,404,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask132.jpg 207,71,322,195,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask133.jpg 397,1,842,483,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask134.jpg 81,2,186,120,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask135.jpg 515,32,679,264,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask136.jpg 243,1,333,124,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask137.jpg 208,4,333,178,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask138.jpg 179,3,342,232,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask139.jpg 303,62,606,416,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask14.jpg 26,85,246,338,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask140.jpg 363,1,507,163,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask141.jpg 367,65,479,199,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask142.jpg 385,14,577,225,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask143.jpg 115,1,267,217,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask144.jpg 290,122,455,308,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask145.jpg 255,1,535,314,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask146.jpg 121,8,164,71,0 182,12,243,75,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask147.jpg 51,129,214,317,0 302,28,472,212,0 510,53,663,234,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask148.jpg 325,224,452,379,0 531,46,660,223,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask149.jpg 82,102,137,166,0 205,112,267,193,0 317,92,370,165,0 416,119,474,193,0 1,107,26,146,1 636,100,669,142,1 502,126,527,155,1 491,132,504,149,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask15.jpg 580,233,647,332,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask150.jpg 28,115,135,203,0 347,74,421,179,0 472,112,532,194,0 585,132,655,217,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask151.jpg 173,9,340,224,0 360,119,497,292,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask152.jpg 267,105,463,365,0 437,30,695,330,0 822,64,1003,289,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask153.jpg 129,90,235,236,0 382,6,455,98,1 460,32,563,178,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask154.jpg 101,66,156,184,0 193,44,248,114,0 310,37,362,112,0 438,48,492,124,0 612,1,680,117,0 525,79,576,146,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask155.jpg 91,17,190,146,0 364,52,485,198,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask156.jpg 170,167,280,308,0 340,116,442,243,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask157.jpg 616,17,844,273,0 473,32,596,191,0 93,1,317,214,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask158.jpg 122,19,286,244,0 386,4,541,206,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask159.jpg 111,54,316,368,0 428,16,568,258,0 24,141,60,177,1 638,158,661,187,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask16.jpg 293,85,368,188,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask160.jpg 484,199,1013,759,0 1608,414,2030,904,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask161.jpg 94,18,175,119,0 292,1,383,110,0 429,8,507,99,0 635,134,698,212,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask162.jpg 22,72,84,162,1 162,162,213,231,1 277,65,355,181,0 477,17,558,134,0 759,129,846,253,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask163.jpg 608,38,779,253,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask164.jpg 166,167,359,394,0 649,15,828,240,0 1130,172,1199,345,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask165.jpg 361,60,453,175,0 557,299,629,384,0 752,77,848,166,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask166.jpg 63,47,165,160,0 448,2,546,130,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask167.jpg 113,101,154,151,0 264,130,305,178,0 355,1,402,47,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask168.jpg 368,51,431,143,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask169.jpg 97,44,203,177,0 300,75,398,196,0 495,79,576,186,0 585,84,660,181,0 689,83,752,172,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask17.jpg 546,116,598,186,0 111,54,175,130,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask170.jpg 185,45,352,268,0 427,13,636,245,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask171.jpg 19,113,112,208,1 140,68,252,225,0 385,81,508,230,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask172.jpg 82,4,166,100,0 340,14,427,113,0 494,29,576,129,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask173.jpg 95,46,223,211,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask174.jpg 69,5,115,67,0 337,24,374,71,0 378,26,420,78,0 470,24,508,72,0 505,28,550,87,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask175.jpg 272,1,413,181,0 542,48,629,170,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask176.jpg 124,56,182,138,0 158,107,248,216,0 321,13,413,136,0 421,66,563,235,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask177.jpg 65,1,244,229,0 390,131,572,389,0 611,156,827,390,0 305,226,383,343,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask178.jpg 109,82,176,167,0 287,35,305,58,1 396,24,465,117,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask179.jpg 176,97,262,198,0 400,46,442,105,1 436,19,498,96,0 139,45,157,72,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask18.jpg 154,191,178,228,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask180.jpg 612,534,1035,1151,0 1207,620,1648,1201,0 1816,887,2312,1442,0 1848,457,2294,953,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask181.jpg 385,40,811,621,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask182.jpg 154,3,229,103,0 236,62,300,144,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask183.jpg 106,83,191,175,0 273,93,339,183,0 412,34,534,156,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask184.jpg 431,96,736,500,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask185.jpg 716,42,831,183,0 257,78,351,189,0 87,8,240,184,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask186.jpg 244,140,333,254,0 359,147,432,250,0 45,336,99,419,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask187.jpg 70,5,307,291,0 356,49,567,316,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask188.jpg 95,6,226,206,0 497,18,636,196,1 700,16,795,155,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask189.jpg 192,69,270,182,1 345,107,441,248,0 591,88,679,214,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask19.jpg 42,8,227,294,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask190.jpg 54,174,134,278,0 301,10,405,131,0 501,161,575,250,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask191.jpg 71,216,194,362,0 349,106,513,329,0 194,376,301,471,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask192.jpg 343,64,467,237,0 488,68,603,229,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask193.jpg 59,146,124,228,0 241,87,349,225,0 358,151,443,246,0 495,159,517,182,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask194.jpg 1160,366,2264,1839,0 2487,1362,3375,2443,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask195.jpg 207,39,784,772,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask196.jpg 123,8,545,497,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask197.jpg 282,117,426,298,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask198.jpg 222,41,436,352,1 417,132,546,261,1 839,81,1002,271,0 1202,80,1380,290,0 1880,6,2046,294,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask199.jpg 408,10,688,359,0 696,186,901,441,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask2.jpg 288,42,441,246,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask20.jpg 601,29,669,114,0 368,99,401,151,1 233,110,274,163,1 182,183,203,210,1 126,218,142,236,1 6,188,24,207,1 96,213,110,233,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask200.jpg 454,16,622,215,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask201.jpg 67,1,180,131,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask202.jpg 45,17,102,84,0 312,51,388,158,0 541,35,608,145,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask203.jpg 162,6,340,257,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask204.jpg 182,38,325,256,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask205.jpg 395,11,623,259,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask206.jpg 157,12,312,216,0 307,13,450,214,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask207.jpg 589,58,984,531,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask208.jpg 182,47,401,298,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask209.jpg 96,30,209,159,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask21.jpg 142,86,347,346,0 334,111,530,356,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask210.jpg 245,23,593,458,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask211.jpg 237,20,500,307,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask212.jpg 569,24,883,442,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask213.jpg 47,16,117,98,0 122,1,251,123,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask214.jpg 148,1,670,548,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask215.jpg 169,29,474,481,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask216.jpg 208,93,306,217,1 127,54,188,133,1 275,28,389,176,0 447,76,521,160,0 607,42,737,187,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask217.jpg 189,1,530,271,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask218.jpg 116,11,370,300,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask219.jpg 521,42,1212,942,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask22.jpg 344,142,409,223,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask220.jpg 328,10,552,303,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask221.jpg 455,233,619,463,0 1065,159,1230,410,0 1886,256,2030,455,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask222.jpg 457,24,968,620,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask223.jpg 166,18,438,418,0 500,171,789,510,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask224.jpg 398,3,776,442,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask225.jpg 387,59,687,465,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask226.jpg 250,17,640,505,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask227.jpg 401,65,504,242,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask228.jpg 239,68,353,221,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask229.jpg 282,64,396,218,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask23.jpg 148,177,178,207,0 117,194,144,217,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask230.jpg 128,31,386,323,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask231.jpg 133,88,254,224,0 196,2,270,89,0 381,4,450,85,0 559,57,699,217,0 620,28,709,106,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask232.jpg 287,37,428,221,0 614,4,758,180,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask233.jpg 117,5,428,398,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask234.jpg 272,1,413,189,0 542,49,628,172,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask235.jpg 228,24,340,177,0 418,18,490,97,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask236.jpg 196,59,394,313,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask237.jpg 146,105,251,245,0 259,10,410,171,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask238.jpg 67,88,167,205,0 472,145,532,211,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask239.jpg 550,187,725,407,0 870,148,1044,314,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask24.jpg 504,101,550,155,0 435,110,482,167,1 21,134,57,182,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask240.jpg 223,117,576,520,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask241.jpg 301,147,472,329,0 467,147,599,303,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask242.jpg 246,161,572,523,0 555,34,938,548,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask243.jpg 225,1,327,137,0 286,70,379,192,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask244.jpg 329,23,692,428,0 1042,169,1421,551,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask245.jpg 207,181,623,710,0 761,23,1025,409,0 963,230,1337,658,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask246.jpg 275,29,428,234,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask247.jpg 163,93,405,372,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask248.jpg 469,1,714,292,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask249.jpg 50,3,157,107,0 498,55,590,168,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask25.jpg 205,106,305,227,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask250.jpg 101,315,302,549,0 61,129,210,335,0 186,72,294,211,0 369,65,478,204,0 495,84,610,242,0 609,76,697,197,1 785,50,907,202,0 960,32,1089,203,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask251.jpg 510,141,1126,1043,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask252.jpg 341,1,604,344,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask253.jpg 275,1,531,324,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask254.jpg 15,5,214,236,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask255.jpg 98,62,275,242,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask256.jpg 148,47,312,227,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask257.jpg 95,1,321,270,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask258.jpg 125,137,205,249,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask259.jpg 101,145,219,270,0 273,156,385,275,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask26.jpg 100,134,184,244,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask260.jpg 145,49,262,200,0 420,185,542,306,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask261.jpg 241,45,439,248,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask262.jpg 272,31,401,149,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask263.jpg 88,99,248,321,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask264.jpg 145,98,247,205,0 36,59,74,107,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask265.jpg 832,102,1045,388,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask266.jpg 189,78,292,227,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask267.jpg 212,53,354,265,0 396,210,553,389,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask268.jpg 325,167,429,313,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask269.jpg 276,58,470,330,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask27.jpg 159,75,208,143,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask270.jpg 215,116,375,271,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask271.jpg 162,173,279,325,0 310,149,401,270,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask272.jpg 308,122,370,185,0 483,16,641,203,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask273.jpg 397,13,484,117,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask274.jpg 29,83,98,168,0 176,26,243,99,0 126,158,189,236,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask275.jpg 286,1,535,270,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask276.jpg 404,158,562,357,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask277.jpg 81,71,311,358,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask278.jpg 384,10,575,194,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask279.jpg 145,56,233,179,0 359,62,447,166,0 535,32,621,155,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask28.jpg 542,6,663,145,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask280.jpg 84,118,276,325,0 334,1,585,390,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask281.jpg 181,38,308,212,0 359,117,478,276,0 490,130,571,240,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask282.jpg 329,16,593,360,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask283.jpg 231,269,449,512,0 432,328,659,627,0 699,114,875,360,0 920,214,1129,491,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask284.jpg 101,225,329,538,0 390,128,572,371,0 625,59,893,394,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask285.jpg 580,64,1715,1288,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask286.jpg 204,1,446,273,0 552,14,733,251,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask287.jpg 58,148,124,225,0 241,86,351,224,0 356,151,442,246,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask288.jpg 346,402,485,528,0 1000,371,1112,496,0 1640,463,1753,588,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask289.jpg 373,132,494,302,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask29.jpg 413,17,523,140,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask290.jpg 510,236,598,399,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask291.jpg 113,78,308,330,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask292.jpg 270,85,462,299,0 385,172,546,377,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask293.jpg 335,6,638,356,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask294.jpg 326,74,423,212,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask295.jpg 445,183,555,352,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask296.jpg 241,65,296,132,0 465,50,519,128,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask297.jpg 401,26,459,100,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask298.jpg 491,42,598,188,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask299.jpg 398,51,686,462,0 708,69,1107,567,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask3.jpg 114,78,239,249,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask30.jpg 220,232,245,272,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask300.jpg 226,153,288,231,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask301.jpg 261,18,356,138,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask302.jpg 554,205,1002,725,0 1185,34,1714,886,0 1764,270,2246,855,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask303.jpg 337,15,425,148,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask304.jpg 334,75,393,163,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask305.jpg 227,35,389,241,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask306.jpg 63,116,284,389,0 262,1,592,349,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask307.jpg 268,1,488,274,0 501,132,689,363,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask308.jpg 264,46,398,259,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask309.jpg 426,92,457,154,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask31.jpg 417,69,467,136,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask310.jpg 2076,473,2453,928,0 989,998,1237,1306,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask311.jpg 676,154,758,318,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask312.jpg 260,62,338,181,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask313.jpg 67,16,223,177,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask314.jpg 204,1,742,635,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask315.jpg 25,228,240,473,1 300,65,581,449,0 548,203,813,507,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask316.jpg 176,31,581,524,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask317.jpg 135,43,279,233,0 596,41,748,232,0 979,93,1150,279,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask318.jpg 30,44,272,307,0 283,18,483,229,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask319.jpg 197,24,334,182,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask32.jpg 364,158,408,206,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask320.jpg 302,3,463,196,0 475,13,620,172,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask321.jpg 515,39,686,242,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask322.jpg 336,12,703,454,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask323.jpg 183,62,385,289,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask324.jpg 152,9,393,254,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask325.jpg 162,1,306,161,1 410,78,533,211,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask326.jpg 231,2,407,248,0 445,43,495,116,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask327.jpg 262,1,600,367,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask328.jpg 398,8,722,438,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask329.jpg 249,56,530,466,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask33.jpg 437,23,559,167,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask330.jpg 696,32,1055,525,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask331.jpg 64,5,124,85,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask332.jpg 106,14,789,774,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask333.jpg 426,60,559,226,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask334.jpg 161,8,243,92,0 297,1,361,83,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask335.jpg 184,22,366,194,0 526,8,660,183,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask336.jpg 211,8,451,352,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask34.jpg 299,178,417,361,0 85,303,115,344,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask35.jpg 475,112,537,174,0 620,138,674,206,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask36.jpg 294,13,608,436,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask37.jpg 342,136,407,234,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask38.jpg 218,175,321,298,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask39.jpg 169,112,227,190,0 129,107,166,155,0 323,165,354,206,0 295,124,329,165,0 618,153,648,193,0 676,157,713,200,0 716,152,749,194,0 524,191,540,210,0 48,121,109,192,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask4.jpg 499,166,710,430,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask40.jpg 460,27,489,65,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask41.jpg 427,181,464,235,0 579,199,621,249,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask42.jpg 311,142,425,300,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask43.jpg 525,45,823,643,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask44.jpg 495,165,553,254,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask45.jpg 212,55,352,265,0 395,213,548,387,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask46.jpg 376,47,513,219,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask47.jpg 72,96,267,346,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask48.jpg 417,34,607,242,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask49.jpg 90,49,334,395,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask5.jpg 364,87,542,321,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask50.jpg 200,1,496,332,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask51.jpg 177,1,549,397,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask52.jpg 285,41,434,248,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask53.jpg 74,77,284,367,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask54.jpg 1,38,332,470,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask55.jpg 252,22,503,384,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask56.jpg 215,18,547,462,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask57.jpg 42,36,334,422,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask58.jpg 146,1,664,500,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask59.jpg 63,67,297,341,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask6.jpg 96,147,200,293,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask60.jpg 123,277,191,355,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask61.jpg 472,52,583,192,0 174,83,285,221,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask62.jpg 289,37,439,211,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask63.jpg 112,1,383,303,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask64.jpg 83,21,240,215,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask65.jpg 115,88,372,500,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask66.jpg 23,57,248,482,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask67.jpg 179,88,423,468,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask68.jpg 107,123,179,203,0 332,74,416,158,0 174,239,228,303,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask69.jpg 171,14,448,342,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask7.jpg 152,101,213,186,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask70.jpg 336,113,387,179,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask71.jpg 264,15,485,298,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask72.jpg 232,59,470,364,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask73.jpg 105,61,332,303,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask74.jpg 373,101,502,256,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask75.jpg 303,7,514,270,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask76.jpg 268,18,355,113,0 438,39,511,120,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask77.jpg 131,111,334,428,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask78.jpg 164,173,277,325,0 310,149,399,269,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask79.jpg 318,129,523,342,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask8.jpg 71,73,412,482,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask80.jpg 398,34,566,262,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask81.jpg 556,68,995,610,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask82.jpg 188,93,521,481,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask83.jpg 253,154,720,695,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask84.jpg 25,24,122,146,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask85.jpg 385,32,692,415,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask86.jpg 117,1,268,218,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask87.jpg 180,30,357,232,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask88.jpg 321,9,639,375,0 757,170,1046,508,0 1187,22,1280,257,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask89.jpg 142,10,266,164,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask9.jpg 399,77,684,458,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask90.jpg 455,80,827,558,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask91.jpg 256,56,363,189,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask92.jpg 209,1,382,208,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask93.jpg 402,99,537,276,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask94.jpg 142,32,387,320,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask95.jpg 503,83,691,337,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask96.jpg 537,81,812,417,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask97.jpg 320,91,502,317,0 589,3,920,286,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask98.jpg 172,16,265,131,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_found\mask99.jpg 266,38,391,193,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask1.jpg 117,16,395,415,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask10.jpg 93,237,319,515,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask100.jpg 126,15,289,242,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask101.jpg 405,10,843,548,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask102.jpg 210,17,496,418,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask103.jpg 93,36,204,182,1 244,3,405,267,1 580,49,664,165,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask104.jpg 150,1,412,357,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask105.jpg 176,55,282,178,1 320,17,406,149,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask106.jpg 178,20,283,170,1 530,92,636,225,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask107.jpg 125,1,403,359,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask108.jpg 183,28,498,458,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask109.jpg 77,66,503,550,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask11.jpg 254,71,367,216,1 499,107,589,216,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask110.jpg 45,1,153,121,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask111.jpg 68,1,299,360,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask112.jpg 102,30,356,346,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask113.jpg 102,14,193,135,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask114.jpg 165,41,744,872,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask115.jpg 311,26,624,466,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask116.jpg 78,9,282,287,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask117.jpg 431,235,1521,1660,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask118.jpg 89,3,419,424,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask119.jpg 387,1,651,405,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask12.jpg 159,72,193,118,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask120.jpg 439,82,1742,1789,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask121.jpg 302,1,607,387,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask122.jpg 300,1,899,674,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask123.jpg 61,24,283,360,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask124.jpg 82,5,273,312,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask125.jpg 91,12,382,386,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask126.jpg 198,13,377,275,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask127.jpg 314,83,613,518,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask128.jpg 204,163,574,648,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask129.jpg 286,1,492,277,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask13.jpg 196,130,291,244,1 87,70,162,187,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask130.jpg 240,16,442,295,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask131.jpg 311,25,631,466,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask132.jpg 139,1,321,242,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask133.jpg 164,2,535,419,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask134.jpg 76,6,426,377,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask135.jpg 218,21,384,226,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask136.jpg 125,42,495,589,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask137.jpg 228,20,379,230,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask138.jpg 412,7,655,373,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask139.jpg 165,19,351,263,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask14.jpg 435,6,605,219,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask140.jpg 155,71,505,588,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask141.jpg 279,46,480,341,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask142.jpg 151,1,590,534,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask143.jpg 591,69,1451,1174,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask144.jpg 276,15,535,371,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask145.jpg 200,19,463,387,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask146.jpg 156,1,436,382,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask147.jpg 490,18,960,596,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask148.jpg 158,35,383,313,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask149.jpg 466,20,1351,963,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask15.jpg 2,40,188,245,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask150.jpg 460,27,886,581,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask151.jpg 172,21,505,448,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask152.jpg 438,37,919,659,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask153.jpg 162,1,567,517,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask154.jpg 140,30,456,433,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask155.jpg 256,28,473,350,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask156.jpg 361,23,498,204,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask157.jpg 265,18,460,285,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask158.jpg 257,1,593,378,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask159.jpg 438,61,600,286,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask16.jpg 226,21,414,218,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask160.jpg 175,3,457,308,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask161.jpg 610,3,929,451,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask162.jpg 239,10,453,297,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask163.jpg 212,38,551,420,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask164.jpg 292,38,867,646,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask165.jpg 229,1,414,199,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask166.jpg 227,1,539,317,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask167.jpg 188,21,495,378,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask168.jpg 263,26,418,182,1 70,159,113,226,1 117,122,160,194,1 223,144,258,213,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask169.jpg 381,64,1671,1425,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask17.jpg 487,120,690,335,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask170.jpg 321,44,429,190,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask171.jpg 363,61,686,446,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask172.jpg 116,48,397,376,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask173.jpg 383,44,835,526,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask174.jpg 468,22,729,351,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask175.jpg 265,29,344,126,1 143,2,225,108,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask176.jpg 265,1,412,171,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask177.jpg 662,65,1443,1040,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask178.jpg 106,10,261,174,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask179.jpg 294,36,468,212,1 539,19,680,227,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask18.jpg 92,1,261,142,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask180.jpg 274,31,531,298,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask181.jpg 97,19,271,200,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask182.jpg 659,75,953,511,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask183.jpg 254,94,666,534,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask184.jpg 280,38,338,121,1 164,93,224,163,1 77,122,132,193,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask185.jpg 316,1,535,247,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask186.jpg 262,26,412,187,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask187.jpg 254,75,665,541,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask188.jpg 241,29,381,174,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask189.jpg 214,9,388,229,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask19.jpg 192,38,362,286,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask190.jpg 428,24,1005,627,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask191.jpg 176,19,713,567,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask192.jpg 150,4,337,252,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask193.jpg 238,1,478,211,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask194.jpg 113,17,215,109,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask195.jpg 491,25,868,394,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask196.jpg 204,46,386,287,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask197.jpg 153,3,285,178,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask198.jpg 342,12,933,619,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask199.jpg 94,30,528,491,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask2.jpg 72,69,228,225,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask20.jpg 254,59,486,282,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask200.jpg 219,16,450,324,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask201.jpg 189,14,399,215,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask202.jpg 546,8,861,367,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask203.jpg 108,1,237,146,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask204.jpg 97,16,278,179,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask205.jpg 224,19,368,173,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask206.jpg 299,35,516,244,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask207.jpg 224,41,699,499,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask208.jpg 77,3,229,146,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask209.jpg 81,3,217,170,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask21.jpg 231,134,398,265,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask210.jpg 142,39,207,108,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask211.jpg 192,50,579,546,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask212.jpg 200,24,387,280,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask213.jpg 191,61,443,343,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask214.jpg 236,1,560,428,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask215.jpg 130,1,232,165,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask216.jpg 175,7,576,558,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask217.jpg 92,9,193,109,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask218.jpg 191,16,426,264,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask219.jpg 185,34,341,202,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask22.jpg 57,1,318,257,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask220.jpg 234,66,332,193,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask221.jpg 273,1,514,249,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask222.jpg 547,70,858,460,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask223.jpg 580,46,838,363,1 685,490,1000,723,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask224.jpg 271,62,427,241,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask225.jpg 291,1,548,263,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask226.jpg 242,76,537,445,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask227.jpg 256,2,780,650,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask228.jpg 98,12,288,276,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask229.jpg 118,33,405,345,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask23.jpg 349,182,412,266,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask230.jpg 441,141,730,355,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask231.jpg 268,66,580,468,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask232.jpg 52,16,1004,1268,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask233.jpg 159,1,569,560,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask234.jpg 286,82,754,742,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask235.jpg 179,1,702,535,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask236.jpg 236,18,740,683,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask237.jpg 1,5,404,393,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask238.jpg 129,30,251,238,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask239.jpg 97,8,340,369,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask24.jpg 35,37,456,468,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask240.jpg 54,1,340,367,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask241.jpg 112,34,245,183,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask242.jpg 162,96,506,490,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask243.jpg 321,71,447,247,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask244.jpg 146,1,504,436,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask245.jpg 260,1,465,253,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask246.jpg 388,57,782,456,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask247.jpg 104,32,343,356,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask248.jpg 170,69,285,185,1 437,16,544,141,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask25.jpg 81,47,385,445,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask26.jpg 260,1,585,405,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask27.jpg 85,20,361,391,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask28.jpg 284,7,582,410,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask29.jpg 340,68,455,201,1 486,72,655,237,0
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask3.jpg 313,22,423,136,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask30.jpg 634,4,850,260,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask31.jpg 455,39,632,301,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask32.jpg 16,14,142,167,1 198,7,336,164,1 380,58,495,206,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask33.jpg 374,18,524,190,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask34.jpg 120,13,216,139,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask35.jpg 320,16,398,115,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask36.jpg 221,1,547,262,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask37.jpg 234,20,363,199,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask38.jpg 340,16,444,161,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask39.jpg 314,21,585,402,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask4.jpg 120,1,291,195,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask40.jpg 125,1,242,165,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask41.jpg 526,81,684,337,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask42.jpg 431,1,685,351,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask43.jpg 670,1,991,356,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask44.jpg 192,31,289,142,1 59,179,97,226,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask45.jpg 399,23,554,202,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask46.jpg 500,8,788,328,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask47.jpg 226,68,577,501,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask48.jpg 908,1,1168,268,1 661,272,765,405,1 73,188,166,341,1 377,331,649,570,1 204,325,246,363,1 384,313,411,364,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask49.jpg 236,4,634,539,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask5.jpg 154,4,298,172,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask50.jpg 50,30,440,607,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask51.jpg 317,13,568,373,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask52.jpg 78,37,811,894,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask53.jpg 82,1,814,996,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask54.jpg 292,38,444,222,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask55.jpg 18,31,431,504,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask56.jpg 102,5,461,516,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask57.jpg 392,68,936,614,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask58.jpg 289,11,459,205,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask59.jpg 196,1,773,586,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask6.jpg 128,29,310,227,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask60.jpg 56,21,314,283,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask61.jpg 259,1,943,576,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask62.jpg 267,48,435,245,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask63.jpg 661,1,1434,795,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask64.jpg 1780,660,2396,1450,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask65.jpg 96,4,191,137,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask66.jpg 94,53,343,241,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask67.jpg 55,12,233,267,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask68.jpg 238,53,639,555,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask69.jpg 11,7,145,178,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask7.jpg 88,74,214,233,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask70.jpg 115,7,383,392,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask71.jpg 141,37,713,622,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask72.jpg 80,1,478,498,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask73.jpg 121,1,344,308,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask74.jpg 229,1,486,389,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask75.jpg 126,1,625,781,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask76.jpg 431,1,960,583,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask77.jpg 163,1,573,475,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask78.jpg 99,13,157,111,1 159,1,208,60,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask79.jpg 110,4,410,408,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask8.jpg 62,25,274,258,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask80.jpg 105,1,567,510,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask81.jpg 57,15,178,160,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask82.jpg 19,8,363,544,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask83.jpg 97,42,313,359,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask84.jpg 425,1,825,604,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask85.jpg 196,51,521,509,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask86.jpg 195,8,617,605,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask87.jpg 288,1,678,486,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask88.jpg 353,51,834,683,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask89.jpg 1076,43,1457,571,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask9.jpg 333,106,434,218,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask90.jpg 130,1,422,342,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask91.jpg 174,54,247,140,1 251,19,314,112,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask92.jpg 399,39,917,600,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask93.jpg 123,20,225,159,1 289,78,383,205,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask94.jpg 238,36,490,373,1 82,86,140,150,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask95.jpg 361,1,776,547,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask96.jpg 48,4,308,384,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask97.jpg 468,142,1386,1189,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask98.jpg 52,17,325,410,1
+D:\Machine_Learning\projects\object_detection\yolo_v3\project_FaceMask_detection\Dataset\train\FaceMask_not_found\nmask99.jpg 1138,5,1484,435,1
